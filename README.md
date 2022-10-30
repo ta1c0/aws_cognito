@@ -15,5 +15,4 @@ python3 aws_cognito.py [OPTION]
 Options: 
     get		   Get User Attributes
     update	 Update User Attributes
-
 ```
